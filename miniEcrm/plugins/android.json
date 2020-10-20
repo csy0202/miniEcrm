@@ -1,0 +1,55 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "com.elab.miniEcrm"
+    },
+    "cordova-plugin-statusbar": {
+      "PACKAGE_NAME": "com.elab.miniEcrm"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.elab.miniEcrm"
+    },
+    "cordova-plugin-wkwebview-engine": {
+      "PACKAGE_NAME": "com.elab.miniEcrm"
+    },
+    "cordova-plugin-wkwebview-file-xhr": {
+      "PACKAGE_NAME": "com.elab.miniEcrm"
+    },
+    "cordova-plugin-app-version": {
+      "PACKAGE_NAME": "com.elab.miniEcrm"
+    },
+    "cordova-plugin-file-opener2": {
+      "ANDROID_SUPPORT_V4_VERSION": "27.+",
+      "PACKAGE_NAME": "com.elab.miniEcrm"
+    },
+    "cordova-plugin-file-transfer": {
+      "PACKAGE_NAME": "com.elab.miniEcrm"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "com.elab.miniEcrm"
+    },
+    "jpush-phonegap-plugin": {
+      "APP_KEY": "b842e47fdd520664a3a5ebd8",
+      "CHANNEL": "developer-default",
+      "PACKAGE_NAME": "com.elab.miniEcrm"
+    },
+    "cordova-plugin-qrscanner": {
+      "PACKAGE_NAME": "com.elab.miniEcrm"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.elab.miniEcrm"
+    },
+    "cordova-plugin-jcore": {
+      "PACKAGE_NAME": "com.elab.miniEcrm"
+    }
+  }
+}
